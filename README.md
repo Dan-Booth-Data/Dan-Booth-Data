@@ -11,12 +11,59 @@ I started my career in data as a Data Analytics Consultant at The Information La
 <br/>
 
 <details>
+<summary> Year-long engagement at a leading investment management firm 💵 </summary>
+<br>
+  
+- Scope of work:
+  - Maintained and contributed to the development of 20+ Tableau Dashboards
+  - Managed 15+ Alteryx workflows processing over 35 million rows of data daily
+
+</details>
+
+<details>
 <summary> Machine Learning Project Aiding Player Recruitment at an EFL Club ⚽ </summary>
 <br>
   
 - 3 month project with Derby County Football Club:
   - Used clustering and predictive modelling techniques to group players and predict match outcomes
-  - Results could help drive an informed recruitment process by helping to show the style of players best fitted to Derby's style of play
+  - Results could help drive an informed recruitment process by helping to show the types of players best suited to Derby's style of play
+
+</details>
+
+<details>
+<summary> PowerBI project manager for a national cricket board 🏏 </summary>
+<br>
+  
+- Led a team of 3 to produce 3 PowerBi reports:
+  - The project focus was on generating insights of players fitness and overall performance
+  - The reports could be used to help make informed decisions related to players fitness and overall squad selection
+
+</details>
+
+<details>
+<summary> Led a Tableau Training Session for non-data professionals 🧑‍🏫 </summary>
+<br>
+  
+- A day long Tableau training course with an emphasis on data preperation and dashboard design
+  - ~30 professionals atteneded
+
+</details>
+
+<details>
+<summary> Advisory consultancy work for a county council 🏤 </summary>
+<br>
+  
+- Helped advise a county council to optomise their data collection and strategy
+  - Consisted of building two Tableau dashboards to show the benefits of the new data collection process
+
+</details>
+
+<details>
+<summary> Tableau developement work for a first division netball team 🏐 </summary>
+<br>
+  
+- Worked within a team of 4 to develop 3 dashboards for a leading netball team
+  - Dashboard development focussed on player and team performance metrics
 
 </details>
 
