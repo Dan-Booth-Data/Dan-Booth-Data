@@ -21,7 +21,7 @@ I started my career in data as a Data Analytics Consultant at The Information La
 </details>
 
 <details>
-<summary> Machine Learning Project Aiding Player Recruitment at an EFL Club ⚽ </summary>
+<summary> Machine learning project aiding player recruitment at an EFL Club ⚽ </summary>
 <br>
   
 - 3 month project with Derby County Football Club:
