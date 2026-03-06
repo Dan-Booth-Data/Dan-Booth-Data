@@ -103,6 +103,11 @@ I started my career in data as a Data Analytics Consultant at The Information La
 <img src="https://github.com/user-attachments/assets/c128050f-41c1-496f-b083-8d55b6de5e69" width = "25%" />
 
 ---
+### PowerBI Reports
+<a href = "https://www.novypro.com/project/superstore-sales---executive-regional-summary" />
+<img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/cdn-cgi/image/w=384,h=682,f=auto,dpr=0.75,fit=contain/f1772793322738x217289232640053950/Screenshot%202026-03-06%20103506.png" width 25% />
+
+---
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dan-booth/" target="_blank" rel="noreferrer">
     <picture>
