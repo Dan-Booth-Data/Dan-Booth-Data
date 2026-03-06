@@ -105,7 +105,7 @@ I started my career in data as a Data Analytics Consultant at The Information La
 ---
 ### PowerBI Reports
 <a href = "https://www.novypro.com/project/superstore-sales---executive-regional-summary" />
-<img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/cdn-cgi/image/w=384,h=682,f=auto,dpr=0.75,fit=contain/f1772793322738x217289232640053950/Screenshot%202026-03-06%20103506.png" width 25% />
+<img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/cdn-cgi/image/w=384,h=682,f=auto,dpr=0.75,fit=contain/f1772793322738x217289232640053950/Screenshot%202026-03-06%20103506.png" width = 25% />
 
 ---
   <!-- LinkedIn -->
