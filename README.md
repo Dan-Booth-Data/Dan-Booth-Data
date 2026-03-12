@@ -95,7 +95,7 @@ I started my career in data as a Data Analytics Consultant at The Information La
 
 | Name | Project Description | Tools |
 | -- | -- | -- |
-| | |  |
+| [Airbnb search tool]("https://github.com/Dan-Booth-Data/air_bnb_dbt_project") | Created an Airbnb search tool helping users find the proximity of Airbnb listings to London attractions | Snowflake, dbt, Tableau |
 
 ---
 ### Tableau Visualisations
