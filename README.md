@@ -100,14 +100,42 @@ I started my career in data as a Data Analytics Consultant at The Information La
 ---
 ### Tableau Visualisations
 <a href = "https://public.tableau.com/app/profile/dan.booth/viz/Homicides_17213192966800/HOWSAFEISYOURPOLICINGAREAINCHICAGO">
-<img src="https://github.com/user-attachments/assets/c128050f-41c1-496f-b083-8d55b6de5e69" width = "25%" />
+<img src="https://github.com/user-attachments/assets/c128050f-41c1-496f-b083-8d55b6de5e69" width = "22%" />
+</a>
+
+<a href = "https://public.tableau.com/app/profile/dan.booth/viz/IndexFundComparison/5YearsTotal">
+<img src="https://public.tableau.com/static/images/In/IndexFundComparison/5YearsTotal/4_3.png" width = "22%" />
+</a>
+
+<a href = "https://public.tableau.com/app/profile/dan.booth/viz/AirbnbsproximitytoLondonattractions/AirBnbLocations">
+<img src="https://public.tableau.com/static/images/Ai/AirbnbsproximitytoLondonattractions/AirBnbLocations/4_3.png" width = "22%" />
+</a>
+
+<a href = "https://public.tableau.com/app/profile/dan.booth/viz/PremierLeague2425TeamPeformance/TeamStats">
+<img src="https://public.tableau.com/static/images/Pr/PremierLeague2425TeamPeformance/TeamStats/4_3.png" width = "22%" />
+</a>
+
+<a href = "https://public.tableau.com/app/profile/dan.booth/viz/CVTemplate/CVTemplate">
+<img src="https://public.tableau.com/static/images/CV/CVTemplate/CVTemplate/4_3.png" width = "22%" />
+</a>
+
+<a href = "https://public.tableau.com/app/profile/dan.booth/viz/Ananalysisofthe6mostcommonlyusedformationsinthepremierleague/FormationsDashboard">
+<img src="https://public.tableau.com/static/images/An/Ananalysisofthe6mostcommonlyusedformationsinthepremierleague/FormationsDashboard/4_3.png" width = "22%" />
+</a>
+
+<a href = "https://public.tableau.com/app/profile/dan.booth/viz/PremierLeague2425-TeamProfileComparison/GoalkeeperDashboard">
+<img src="https://public.tableau.com/static/images/Pr/PremierLeague2425-TeamProfileComparison/GoalkeeperDashboard/4_3.png" width = "22%" />
+</a>
+
+<a href = "https://public.tableau.com/app/profile/dan.booth/viz/DataPlusTV-ThemostpopularPeepShowcharacter/Dashboard1">
+<img src="https://public.tableau.com/static/images/Da/DataPlusTV-ThemostpopularPeepShowcharacter/Dashboard1/4_3.png" width = "22%" />
 </a>
 
 ---
 
 ### PowerBI Reports
 <a href = "https://www.novypro.com/project/superstore-sales---executive-regional-summary">
-<img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/cdn-cgi/image/w=384,h=682,f=auto,dpr=0.75,fit=contain/f1772793322738x217289232640053950/Screenshot%202026-03-06%20103506.png" width = 25% />
+<img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/cdn-cgi/image/w=384,h=682,f=auto,dpr=0.75,fit=contain/f1772793322738x217289232640053950/Screenshot%202026-03-06%20103506.png" width = 22% />
 </a>
 
 ---
