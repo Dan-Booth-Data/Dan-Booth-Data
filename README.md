@@ -96,6 +96,7 @@ I started my career in data as a Data Analytics Consultant at The Information La
 | Name | Project Description | Tools |
 | -- | -- | -- |
 | [Airbnb search tool](https://github.com/Dan-Booth-Data/air_bnb_dbt_project) | Created an Airbnb search tool helping users find the proximity of Airbnb listings to London attractions | <ul><li>Snowflake</li><li>dbt</li><li>Tableau</li></ul> |
+| [Preppin' Data Challenges](https://github.com/Dan-Booth-Data/PreppinData/tree/main) | A selection of Preppin' Data challenges solved using SQL/Python | <ul><li>SQL</li><li>Python</li></ul> |
 
 ---
 ### Tableau Visualisations
